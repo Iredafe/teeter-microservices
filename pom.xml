@@ -23,6 +23,10 @@
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<twitter-4j.version>4.07</twitter-4j.version>
 		<lombok.version>1.18.16</lombok.version>
+		<avro.version>1.10.0</avro.version>
+		<spring-kafka.version>2.6.2</spring-kafka.version>
+		<spring-retry.version>1.3.0</spring-retry.version>
+		<kafka-avro-serializer.version>5.5.1</kafka-avro-serializer.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
